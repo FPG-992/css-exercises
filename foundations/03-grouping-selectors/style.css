@@ -1,0 +1,13 @@
+.ClickMe,
+.No{
+    font-size:28px;
+    font-family: Helvetica,'Times New Roman',sans-serif
+}
+.ClickMe{
+    background-color: black;
+    color: white;
+    font-weight:700;
+}
+.No{
+    background-color:yellow;
+}
