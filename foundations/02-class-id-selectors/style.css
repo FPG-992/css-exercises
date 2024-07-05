@@ -1,0 +1,16 @@
+.its-a-class{
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+#its-an-id{
+    color: blue;
+    font-size: 36px;
+}
+.its-a-class#cooler{
+    font-size: 24px;
+}
+#another-id{
+    font-size:24px;
+    font-weight:700px;
+    background-color: lightgreen;
+}
